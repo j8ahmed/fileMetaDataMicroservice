@@ -11,3 +11,14 @@
 
 ### Hint:
 * To handle the file uploading you should use the [multer](https://www.npmjs.com/package/multer) npm package.
+
+glitch site link: https://festive-storm.glitch.me/
+glitch dev-site link: https://glitch.com/edit/#!/festive-storm?path=README.md:1:0
+
+### My Work Flow for the Project
+
+- read through the material 
+- test the working example
+- build the beta
+- testing
+- submit
